@@ -1,2 +1,5 @@
 HI, this is a sample text file
 created in git
+
+
+adding new line
